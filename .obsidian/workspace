@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "93d7431e116f9982",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d375ad20c982437",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b584e313e1c8f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8619a545946b93e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f529f99d741e460",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "643918aacb372c2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fb5c1cd1bff08fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c28c9b15e757aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a743525ec5ffeb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12134dd63e287461",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "vim/Scroll up, down shortcut.md",
+    "Scroll up / Scroll down shortcut.md",
+    "ruby/Print a simple progress counter on console using ruby.md",
+    "Print a simple progress counter on console using ruby.md",
+    "git/Untitled.md",
+    "Untitled.md"
+  ]
+}
