@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "git/Instaweb GUI.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "git/Instaweb GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +94,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "git/Instaweb GUI.md",
+    "vim/Scroll up and scroll down shortcut.md",
+    "ruby/Print a simple progress counter in console using ruby.md",
     "README.md",
     "vim/Scroll up, down shortcut.md",
     "Scroll up / Scroll down shortcut.md",

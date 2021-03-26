@@ -1,3 +1,5 @@
+# Instaweb GUI
+
 Run a webserver for your current repo.
 ```
 git instaweb
@@ -9,6 +11,5 @@ By default, it use [lighttpd](https://github.com/lighttpd) but you can change it
 git instaweb -d webrick
 ```
 
-![[Instaweb GUI.png]]
-
-![[Instaweb GUI - 2.png]]
+![](Instaweb%20GUI.png)
+![](Instaweb%20GUI%20-%202.png)
